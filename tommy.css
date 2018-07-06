@@ -1,0 +1,35 @@
+body{
+	background-color:purple;
+}
+header{
+	background-color:pink;
+}
+header h1{
+	margin-left:40%;
+}
+#bd{
+	margin:5% 0% 0% 40%;
+}
+#bd h1{
+	margin-left:5%;
+}
+#bd li{
+	font-size:26px;
+}
+button{
+	font-size:26px;
+	color:red;
+	width:20%;
+	height:100px;
+	margin-top:7%;
+}
+footer{
+	background-color:black;
+}
+footer img{
+	margin-left:40%;
+}
+footer h1{
+	margin-left:40%;
+	color:white;
+}
